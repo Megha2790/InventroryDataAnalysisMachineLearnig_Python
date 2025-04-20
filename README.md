@@ -3,9 +3,9 @@
 ## XYZ Manufacturing Company
 
 ### 1. Executive Summary
-       This report presents a comprehensive analysis of inventory data for XYZ Manufacturing Company. It includes insights on inventory 
-       turnover, reorder points, EOQ, procurement efficiency, and recommendations for improving inventory management and working capital 
-       efficiency.
+This report presents a comprehensive analysis of inventory data for XYZ Manufacturing Company. It includes insights on inventory 
+turnover, reorder points, EOQ, procurement efficiency, and recommendations for improving inventory management and working capital 
+efficiency.
        
 ### 2. Inventory Turnover Analysis
 #### Key Metrics:
